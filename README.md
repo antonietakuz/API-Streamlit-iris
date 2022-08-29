@@ -16,7 +16,7 @@
    Crear dos archivos:
    -Procfile
    -setup.sh
-    Conectar con el repositorio
+   Conectar con el repositorio
    
 
 
